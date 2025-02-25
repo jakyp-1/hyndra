@@ -208,6 +208,15 @@
 
 }
 
+@media(max-width:519px){
+    .location {
+        max-width: 1002px;
+        height: 87px;
+        background-color: #3A3456F2;
+        border-radius: 90px;
+        margin-top: 40px;
+       }
+}
 
 
 @media(max-width:420px){
@@ -228,6 +237,7 @@
         height: 87px;
         background-color: #3A3456F2;
         border-radius: 90px;
+        margin-top: 40px;
        }
 
        .box {
